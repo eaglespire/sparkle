@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sparkle_new.sql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sparkle_new.sql.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

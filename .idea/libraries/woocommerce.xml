@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="woocommerce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/asset/plugins/woocommerce.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
